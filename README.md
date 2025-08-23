@@ -21,9 +21,9 @@ This repository chronicles my comprehensive web development education through [T
 ### Foundations Course
 | Module | Status | Completion Date |
 |--------|--------|----------------|
-| Introduction to Web Development | ✅ Complete | Aug 23, 2025 |
+| Introduction to Web Development | ✅ Complete | Aug 22, 2025 |
 | Git & Version Control | ✅ Complete | Aug 23, 2025 |
-| HTML Foundations | 🔄 In Progress | - |
+| HTML Foundations | 🔄 In Progress | - 
 | CSS Foundations | ⏳ Pending | - |
 | JavaScript Basics | ⏳ Pending | - |
 | Backend Fundamentals | ⏳ Pending | - |
